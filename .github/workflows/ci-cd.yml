@@ -1,9 +1,9 @@
 name: 'build and deploy docker image'
 
-on:
+on: 
   push:
-    tags:
-      - '*'  # Trigger เมื่อ push tag ใด ๆ
+    branches:
+      - main
 
 jobs:
   build-and-deploy:
