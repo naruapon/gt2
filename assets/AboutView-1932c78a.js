@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as o,a as _}from"./index-e294ca43.js";const s={},n={class:"about"},c=_("h1",null,"Software Engineering",-1),a=[c];function r(i,d){return t(),o("div",n,a)}const u=e(s,[["render",r]]);export{u as default};
