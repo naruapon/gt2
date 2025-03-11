@@ -1,6 +1,6 @@
 <template>
   <div class="about">
-    <h1>Software Engineering</h1>
+    <h1>NPRU</h1>
   </div>
 </template>
 
